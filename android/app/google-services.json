@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239976219488",
+    "project_id": "heytheo-21eb2",
+    "storage_bucket": "heytheo-21eb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239976219488:android:60efc803ca656d982ad405",
+        "android_client_info": {
+          "package_name": "com.example.heytheo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp814zx2J4exkUxesp86j65By9gvU-LEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
